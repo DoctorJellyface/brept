@@ -1,0 +1,2 @@
+# brept
+Školský časopis GSF.
