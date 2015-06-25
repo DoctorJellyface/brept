@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.5">
+    <DOCUMENT ANZPAGES="20" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="14.1732283464567" UNITS="1" DFONT="Bookman URW Demi Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="Slovak" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="1" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.155" dispY="0.155" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <MultiLine Name="Čiara">
+            <SubLine Color="Black" Shade="100" Dash="1" LineEnd="0" LineJoin="0" Width="0.5" Shortcut=""/>
+        </MultiLine>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Mierne sivá" CMYK="#000000db" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <COLOR NAME="undef" RGB="#966432" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Nadpis" ALIGN="0" LINESPMode="1" FIRST="0" VOR="5" NACH="2" DROP="0" CPARENT="Nadpis" FCOLOR="Black"/>
+        <STYLE NAME="Podnadpis" PARENT="Nadpis" NACH="0" CPARENT="Podnadpis"/>
+        <STYLE NAME="Zoznam" LINESPMode="1" NACH="4" CPARENT="Default Character Style"/>
+        <STYLE NAME="Zdroj" ALIGN="2" CPARENT="Zdroj"/>
+        <STYLE NAME="Index1" FIRST="0" VOR="5" NACH="0" CPARENT="Index 1"/>
+        <STYLE NAME="Index2" FIRST="5.669291339" VOR="0" CPARENT="Index 2"/>
+        <STYLE NAME="Nič" ALIGN="0" FIRST="0" LANGUAGE="Slovak"/>
+        <STYLE NAME="Záhlavie" ALIGN="0" FIRST="0" VOR="5" NACH="2" CPARENT="Podnadpis"/>
+        <STYLE NAME="Podpodnadpis" PARENT="Podnadpis" VOR="3" CPARENT="Podpodnadpis"/>
+        <STYLE NAME="Krátke" ALIGN="0" VOR="2" NACH="4" CPARENT="Krátke"/>
+        <STYLE NAME="Čosizač" ALIGN="1" FIRST="0" CPARENT="Čosizač"/>
+        <STYLE NAME="BR(e)PT" ALIGN="1" CPARENT="BR(e)PT"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Open Sans Regular" FONTSIZE="13" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Slovak"/>
+        <CHARSTYLE CNAME="Nadpis" FONT="Open Sans Light" FONTSIZE="15" FEATURES="allcaps" FCOLOR="Black" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" LANGUAGE="Slovak"/>
+        <CHARSTYLE CNAME="Podnadpis" CPARENT="Nadpis" FONT="Open Sans Bold" FONTSIZE="13"/>
+        <CHARSTYLE CNAME="Zdroj" FONT="Open Sans Italic" LANGUAGE="Slovak"/>
+        <CHARSTYLE CNAME="BR(e)PT" FONTSIZE="78" LANGUAGE="Slovak"/>
+        <CHARSTYLE CNAME="Index 1" FONT="Open Sans Regular" FONTSIZE="25" FEATURES="allcaps" FCOLOR="Mierne sivá" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" LANGUAGE="Slovak"/>
+        <CHARSTYLE CNAME="Index 2" CPARENT="Index 1" FONT="Open Sans Regular" FEATURES="" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0"/>
+        <CHARSTYLE CNAME="Popis" FONTSIZE="12"/>
+        <CHARSTYLE CNAME="Podpodnadpis" CPARENT="Podnadpis" FONT="Open Sans Semibold" FEATURES="" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0"/>
+        <CHARSTYLE CNAME="Krátke" FONT="Open Sans Italic" LANGUAGE="Slovak"/>
+        <CHARSTYLE CNAME="Čosizač" FONT="Open Sans Bold" FONTSIZE="12" FEATURES="allcaps" FCOLOR="Mierne sivá" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Pozadie" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-1" PDLanguage="-1" markOffset="nan" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="19" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="0" NAM="Obyčajne vľavo" MNAM="" Size="A4" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="1" NAM="Obyčajne vpravo" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="2" NAM="Obal" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.28188976378" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="0" NAM="" MNAM="Obyčajne vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="45.3543 53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="901.890708661418" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="1" NAM="" MNAM="Obyčajne vľavo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.28188976378" PAGEYPOS="901.890708661418" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="2" NAM="" MNAM="Obyčajne vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1783.78015748032" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="3" NAM="" MNAM="Obyčajne vľavo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.28188976378" PAGEYPOS="1783.78015748032" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="4" NAM="" MNAM="Obyčajne vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2665.66960629921" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="5" NAM="" MNAM="Obyčajne vľavo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.28188976378" PAGEYPOS="2665.66960629921" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="6" NAM="" MNAM="Obyčajne vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3547.55905511811" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="7" NAM="" MNAM="Obyčajne vľavo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.28188976378" PAGEYPOS="3547.55905511811" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="8" NAM="" MNAM="Obyčajne vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="4429.44850393701" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="9" NAM="" MNAM="Obyčajne vľavo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.28188976378" PAGEYPOS="4429.44850393701" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="10" NAM="" MNAM="Obyčajne vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5311.33795275591" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="11" NAM="" MNAM="Obyčajne vľavo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.28188976378" PAGEYPOS="5311.33795275591" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="12" NAM="" MNAM="Obyčajne vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6193.22740157481" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="13" NAM="" MNAM="Obyčajne vľavo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.28188976378" PAGEYPOS="6193.22740157481" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="14" NAM="" MNAM="Obyčajne vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7075.1168503937" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="15" NAM="" MNAM="Obyčajne vľavo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.28188976378" PAGEYPOS="7075.1168503937" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="16" NAM="" MNAM="Obyčajne vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7957.0062992126" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="17" NAM="" MNAM="Obyčajne vľavo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.28188976378" PAGEYPOS="7957.0062992126" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="18" NAM="" MNAM="Obyčajne vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8838.8957480315" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="39.6850393700787" BORDERRIGHT="52.4409448818898" BORDERTOP="69.4516535433071" BORDERBOTTOM="51.0236220472441" NUM="19" NAM="" MNAM="Obyčajne vľavo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="53.8583 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <MASTEROBJECT OwnPage="1" PTYPE="5" XPOS="99.998514125228" YPOS="73.8566929133858" WIDTH="542.842430764063" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="Čiara" SHADE="100" SHADE2="100" GRTYP="0" ROT="0.000299190380232113" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Obyčajne vpravo" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </MASTEROBJECT>
+        <MASTEROBJECT OwnPage="1" PTYPE="4" XPOS="586.14803149189" YPOS="56.8516535433071" WIDTH="56.69291339" HEIGHT="17.007874015748" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 56.6929 0 56.6929 0 56.6929 0 56.6929 0 56.6929 17.0079 56.6929 17.0079 56.6929 17.0079 56.6929 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 56.6929 0 56.6929 0 56.6929 0 56.6929 0 56.6929 17.0079 56.6929 17.0079 56.6929 17.0079 56.6929 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Obyčajne vpravo" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Podnadpis" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="13" CH="■"/>
+            <var name="pgno" FONT="Open Sans Bold" FONTSIZE="13"/>
+            <trail PARENT="Podnadpis" ALIGN="2"/>
+            <PageItemAttributes/>
+        </MASTEROBJECT>
+        <MASTEROBJECT OwnPage="0" PTYPE="5" XPOS="152.44157480315" YPOS="73.8595275590551" WIDTH="542.8424308" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="Čiara" SHADE="100" SHADE2="100" GRTYP="0" ROT="0.0002991903802" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Obyčajne vľavo" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </MASTEROBJECT>
+        <MASTEROBJECT OwnPage="0" PTYPE="4" XPOS="152.44157480315" YPOS="56.8516535433071" WIDTH="56.69291339" HEIGHT="17.007874015748" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 56.6929 0 56.6929 0 56.6929 0 56.6929 0 56.6929 17.0079 56.6929 17.0079 56.6929 17.0079 56.6929 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 56.6929 0 56.6929 0 56.6929 0 56.6929 0 56.6929 17.0079 56.6929 17.0079 56.6929 17.0079 56.6929 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Obyčajne vľavo" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Podnadpis" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno" FONT="Liberation Sans Regular" FONTSIZE="13"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="13" CH="■"/>
+            <trail PARENT="Podnadpis" ALIGN="0"/>
+            <PageItemAttributes/>
+        </MASTEROBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="734.966929133858" YPOS="88.0355905511811" WIDTH="503.155275590551" HEIGHT="722.831811023622" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 722.832 503.155 722.832 503.155 722.832 503.155 722.832 0 722.832 0 722.832 0 722.832 0 722.832 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 722.832 503.155 722.832 503.155 722.832 503.155 722.832 0 722.832 0 722.832 0 722.832 0 722.832 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="152.44157480315" YPOS="969.925039370079" WIDTH="503.155275590551" HEIGHT="722.831811023623" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 722.832 503.155 722.832 503.155 722.832 503.155 722.832 0 722.832 0 722.832 0 722.832 0 722.832 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 722.832 503.155 722.832 503.155 722.832 503.155 722.832 0 722.832 0 722.832 0 722.832 0 722.832 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="734.966929133858" YPOS="969.925039370079" WIDTH="503.155275590551" HEIGHT="722.831811023623" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 722.832 503.155 722.832 503.155 722.832 503.155 722.832 0 722.832 0 722.832 0 722.832 0 722.832 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 722.832 503.155 722.832 503.155 722.832 503.155 722.832 0 722.832 0 722.832 0 722.832 0 722.832 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="14" CH="Milý GSF – áci."/>
+            <tab FONTSIZE="14"/>
+            <tab FONTSIZE="14"/>
+            <tab FONTSIZE="14"/>
+            <tab FONTSIZE="14"/>
+            <tab FONTSIZE="14"/>
+            <tab FONTSIZE="14"/>
+            <ITEXT FONTSIZE="14" CH=" "/>
+            <para/>
+            <ITEXT FONTSIZE="14" CH="Ako by to bolo len nedávno, čo sme sa po dvoch mesiacoch plných tepla, vody a ničnerobenia všetci opäť ocitli v kolobehu školských povinností. A teraz je tu opäť ten čas. Čas plný stresu z nasledujúcich písomiek a odpovedí, ktoré rozhodnú o tom či si pobyt na GSF predĺžim o rok alebo sa predsa  len nejako dostanem ďalej. Čas neustáleho strachu, či príde domou upomienka, či stihnem známky opraviť a čo mi na to povedia rodičia. Ale aj tak nechápem prečo je to tak. Toľko kriku pre nič. Veď sa učím kvôli sebe a nie kvôli mojim rodičom a známka je len číslo. Nie? Takto nám to dospelí vždy vravievali. Ale tak dospelý nemyslia vždy všetko vážne. A nikdy sa vám veci nepodaria presne tak, ako ste si ich naplánovali. Ale to neznamená, že keď sa vám niečo nepodarí, že sa máte vzdávať. Práve naopak. Musíte sa snažiť a bojovať ešte viac. Poviem to tak, život je pes a my sme jeho granule. Dnes tu sme, ale zajtra už nemusíme. Náš život je obmedzený a konečný, tak sa nesprávajme ako by sme zdedili všetku múdrosť sveta a boli nedotknuteľní. Ja viem že podaktorí by chceli mať schopnosti ako Spider-Man, Iron-Man, Thor alebo Kapitán Amerika. To žiaľ nejde. Teda ide ale len v americkom filme. My žijeme na Slovensku a nie vo filme ale v krutej realite. Preto radšej žime tak, ako by mal každý deň byť náš posledný. Vážme si to, čo máme, vážme si ľudí, ktorých nás majú radi a ktorých máme radi my. Skúsme sa správať a žiť tak, aby sa za nás naši rodičia nemuseli hanbiť a aby na nás, keď tu už rad nebudeme ľudia spomínali len v dobrom. "/>
+            <para/>
+            <ITEXT FONTSIZE="14" CH="Celý život je o tom že niekoho stretávame a strácame. Tak je to aj na GSF. Stretneme tu nových ľudí a z mnohých sa stanú nerozlučný priatelia a iných už po škole možno nikdy neuvidíme. Ja už tiež mnohých z vás už asi nikdy nestretnem, pretože pre mňa školský zvonček, ktorý mi často privolával infarktové stavy, už dozvonil. Tak vám prajem aby ste si užili prázdniny, ale aj zvyšok času, ktorý strávite v škole. Školské časy, sú jedno z najkrajších období. Užite si preto školu plnými dúškami. Ja som ju teda užila a odnášam si úžasné zážitky a spomienky."/>
+            <para/>
+            <ITEXT FONTSIZE="14" CH="Naposledy sa s vami lúči vaša šéfredaktorka "/>
+            <para/>
+            <ITEXT FONTSIZE="14" CH="Renča"/>
+            <trail PARENT="Zdroj"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="152.441574803149" YPOS="1858.89826771654" WIDTH="503.155275590551" HEIGHT="715.748031496063" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 715.748 503.155 715.748 503.155 715.748 503.155 715.748 0 715.748 0 715.748 0 715.748 0 715.748 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 715.748 503.155 715.748 503.155 715.748 503.155 715.748 0 715.748 0 715.748 0 715.748 0 715.748 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="5" BACKITEM="-1">
+            <ITEXT CH="Nadpis: Múzeum SNP"/>
+            <para/>
+            <ITEXT CH="Autor: Petronela Plošticová, 3.B"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Dňa  11.3. sa III.B trieda zúčastnila exkurzie v Banskej Bystrici  v Múzeu SNP."/>
+            <para/>
+            <ITEXT CH="Hoci sme vyrážali zavčas rána, naša cesta vlakom sa niesla v znamení optimizmu a "/>
+            <para/>
+            <ITEXT CH="dobrej nálady. Keď sme dorazili na vopred určené  miesto, zoznámili sme sa s"/>
+            <nbspace/>
+            <ITEXT CH="naším sprievodcom Jakubom, ktorý nám povedal základné informácie o danej problematike a zodpovedal všetky naše otázky. Nakoniec sme si pozreli dokumentárny film z"/>
+            <nbspace/>
+            <ITEXT CH="obdobia 2.svetovej vojny a prezreli si dobové exponáty. Banskobystrická exkurzia bola podľa názoru všetkých zúčastnených veľmi prínosnou, keďže sme vďaka nej pripomenuli udalosti preberajúce na hodinách dejepisu a možno i lepšie pochopili danú tému."/>
+            <para/>
+            <ITEXT CH="P.S.: Veľká vďaka patrí p. prof. Minekovi a p. prof. Osikovej, ktorí nás počas dňa sprevádzali a vybavili všetky potrebné technické záležitosti týkajúce sa výletu."/>
+            <para/>
+            <para/>
+            <ITEXT CH="Nadpis: Osvienčim"/>
+            <para/>
+            <ITEXT CH="Autor: Peter Vršanský, 3.A"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Dňa 8. júna sa naši tretiaci pod dozorom profesora Mineka a profesorky Neslušanovej zúčastnili exkurzie do poľského mesta Osvienčim. Tu navštívili najväčší vyhladzovací tábor z obdobia druhej svetovej vojny Auschwitz-Birkenau. Počas svojej návštevy prešli pôvodné budovy tábora, prezreli si fotografie tábora v čase jeho činnosti a obzreli si predmety patriace zavraždeným väzňom. V druhej časti prehliadky si uctili obete holokaustu modlitbou, sviečkou a vypočuli si príbehy o slovenských zajatcov v tábore."/>
+            <para/>
+            <para/>
+            <ITEXT CH="Nadpis: Učíme pre život a"/>
+            <nbspace/>
+            <ITEXT CH="pre prax"/>
+            <para/>
+            <ITEXT CH="Autor: Veronika Kavecká, 2.A"/>
+            <para/>
+            <para/>
+            <ITEXT CH="„Učíme efektívne a hravo!“"/>
+            <para/>
+            <ITEXT CH="Cieľ projektu: Modernizovať vzdelávací proces tak, aby bolo študentom poskytnuté kvalitnejšie vzdelanie, a aby sa tak mohli efektívnejšie zaradiť do vedomostnej spoločnosti."/>
+            <para/>
+            <ITEXT CH="Vďaka tomuto projektu sa v poslednej dobe nie len modernizujú zariadenia na našej školy, ale taktiež sa študenti zúčastňujú rôznych prednášok a exkurzií. "/>
+            <para/>
+            <para/>
+            <ITEXT CH="Exkurzia do atómovej elektrárne v  Jaslovských  Bohuniciach"/>
+            <para/>
+            <ITEXT CH="Exkurzia do Mendelovho múzea genetiky v Brne"/>
+            <para/>
+            <ITEXT CH="Exkurzia do Tropicaria v Budapešti"/>
+            <para/>
+            <ITEXT CH="Exkurzia do Duslo v Šali"/>
+            <para/>
+            <ITEXT CH="Exkurzia do Banského múzea v Banskej Štiavnici"/>
+            <para/>
+            <ITEXT CH="Exkurzia do Arboréta v Tesárskych Mlyňanoch"/>
+            <para/>
+            <ITEXT CH="Exkurzia do ZOO v Bratislave"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Nadpis: Maturitné skúšky 2015"/>
+            <para/>
+            <ITEXT CH="Autor: Renáta Badurová, 4.A"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Niektorí si užívali voľné dni, kino, divadlo, a to že s nemusia učiť. A tí ostatní, čiže my, maturanti, sme prechádzali prvou skúškou dospelosti a snažili sme sa tieto štyri roky štúdia ukončiť čo najúspešnejšie. Ale vedomosti učivo za štyri roky sa nedá naučiť za týždeň. Jednoducho smola. Tak nám nezostávalo nič iné, len sa spoliehať, že budem mať šťastnú ruku a vytiahnem si otázku, ktorú som sa stihol naučiť. "/>
+            <para/>
+            <ITEXT CH="   Približne v takomto duchu sa niesli dni od 25. po 28. Mája, kedy sa na našej škole konali maturitné skúšky.  Ale samozrejme, že sa našli aj ľudia, ktorí boli ako chodiaca encyklopédia a vedeli vyrozprávať všetko od slova do slova, odpredu aj odzadu. Videla som vystresovaných ľudí, ktorých by za bežných okolností nerozladila ani jadrová vojna, videla som sa učiť ľudí, ktorý do tej doby význam tohto slova pravdepodobne ani nepoznali. Videla som ľudí, ktorí už ani nevedeli, čo je to jedlo a spánok. Ja osobne som spávala maximálne 4 hodiny denne, ale stálo to za to. "/>
+            <para/>
+            <ITEXT CH="   Som ,,KING״ . To si vravel asi každý, kto sa po najdlhších 40 minútach v jeho živote dozvedel na akú známku zmaturoval. Nakoniec napodiv všetko skončilo prekvapujúco dobre a hladko. Každý z nás si mohol vydýchnuť . Všetci sme zmaturovali. Som toho tvrdenia, že je úplne jedno na akú známku. V živote sa ma aj tak nikto nebude pýtať aké si mala maturitné vysvedčenie a ak hej, tak mu poviem nech sa nestará. "/>
+            <para/>
+            <ITEXT CH="   A teraz jedna rada pre vás ostatných. Aj keď ste sa celé tie roky učili, nakoniec zistíte, že si nič nepamätáte. Ale ani si toho moc pamätať nemusíte, maturita je z veľkej časti o náhode, šťastí a o tom, či vieš ľudí presvedčiť, že niečo vieš aj keď to nevieš. To ale neznamená, že sa nemáte učiť. Veď predsa šťastie praje pripraveným. "/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="170.625" YPOS="1820.6305511811" WIDTH="484.971850393701" HEIGHT="17.007874015748" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 484.972 0 484.972 0 484.972 0 484.972 0 484.972 17.0079 484.972 17.0079 484.972 17.0079 484.972 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 484.972 0 484.972 0 484.972 0 484.972 0 484.972 17.0079 484.972 17.0079 484.972 17.0079 484.972 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Záhlavie" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Rubrika jéj"/>
+            <trail PARENT="Záhlavie"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="734.966929133858" YPOS="1853.23181102362" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="3">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="152.44157480315" YPOS="3617.01070866142" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" OpticalMargins="0" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="7" BACKITEM="-1">
+            <ITEXT CH="Nadpis: Leto 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Autor: Veronika Verešová, 3.B"/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Škola nám pomaly, ale isto končí a"/>
+            <nbspace/>
+            <ITEXT CH="určite sa už všetci tešíme na leto. Verím, že vaše diáre sú plné akcií a"/>
+            <nbspace/>
+            <ITEXT CH="podujatí, na ktoré budete dlho spomínať. Ale keby sa predsa len našiel nejaký ten deň alebo týždeň, možno viac, ponúkame vám tento článok plný návrhov na príjemné strávenie leta nie len v"/>
+            <nbspace/>
+            <ITEXT CH="žilinskom kraji (keď už máme tie vlaky zadarmo treba to využiť nie?). "/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Burza starožitností na hrade červený kameň "/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Častá, červený kameň"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 18.4. – 24.10. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Ak máte záľubu v"/>
+            <nbspace/>
+            <ITEXT CH="starých vintage veciach a"/>
+            <nbspace/>
+            <ITEXT CH="chcete si s nimi skrášliť byt alebo dom určite by ste nemali váhať zavítať na červený kameň a"/>
+            <nbspace/>
+            <ITEXT CH="nájsť nejaký originálny kúsok na burze starožitností."/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Folklórny festival Východná"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Východná"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 2. – 5. 7. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="61. ročník festivalu Východná ponúka rozsiahlu prehliadku tradičnej ľudovej kultúry na Slovensku."/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Letné Shakespearovské slávnosti"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Bratislava, Bratislavský hrad"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 3. – 27.7. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="vstupenky: 11€, 22€, 33€"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Letné Shakespearovské slávnosti vás aj tento rok pozývajú na Bratislavský hrad pohladiť si dušu Shakespearovskou klasikou. Tento rok sa návštevníci môžu tešiť na Othella, Mnoho povyku pro nic a"/>
+            <nbspace/>
+            <ITEXT CH="Večer trojkráľový alebo Čo len chcete."/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Festival zabudnutých remesiel"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Hrad červený kameň"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 4. – 5.7. 2015 "/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Festival zabudnutých remesiel ponúka jedinečné predstavenia odohrávajúce sa okolo vás. Pozýva vás vstúpiť do sveta stredoveku a"/>
+            <nbspace/>
+            <ITEXT CH="tak sa ocitnúť uprostred stredovekého trhoviska. Vtiahne vás do sveta umenia, remesiel a"/>
+            <nbspace/>
+            <ITEXT CH="dobovej hudby."/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Púť na Mariánsku horu v"/>
+            <nbspace/>
+            <ITEXT CH="Levoči"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Levoča"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 4. – 5.7. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Patrí k"/>
+            <nbspace/>
+            <ITEXT CH="najstarším a"/>
+            <nbspace/>
+            <ITEXT CH="najznámejším pútnickým miestam na Slovensku. Je plná mladých ľudí, programu, modlitieb a"/>
+            <nbspace/>
+            <ITEXT CH="putovania."/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Bažant Pohoda"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: letisko v"/>
+            <nbspace/>
+            <ITEXT CH="Trenčíne"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 9. – 11.7. 2015  "/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="predpredaj: 99€ "/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="vstupenky na mieste: 119 €"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Bažant Pohoda je najväčší slovenský hudobný festival s"/>
+            <nbspace/>
+            <ITEXT CH="návštevnosťou 30"/>
+            <nbspace/>
+            <ITEXT CH="000 ľudí, ktorý sa radí do siete veľkých európskych hudobných festivalov. Chystá sa na svoj devätnásty ročník. Ako každý rok aj tentoraz ponúka nielen stovky hudobných slovenských aj zahraničných vystúpení rôznych žánrov ale aj divadlá, diskusie, literatúru, tanec, filmy a"/>
+            <nbspace/>
+            <ITEXT CH="množstvo iných akcií. Na bažant pohodu zavítajú svetové hudobné hviezdy ako je Björk, ale tiež sa návštevníci môžu tešiť na slovenskú hudbu ako Korben Dallas alebo Polemic."/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Utgard "/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Jasenové "/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 11.7. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Stredoveký festival Vikingov a"/>
+            <nbspace/>
+            <ITEXT CH="Slovanov plný šermu, dobovej kuchyne a"/>
+            <nbspace/>
+            <ITEXT CH="remesiel, lukostreľby, turnajov a"/>
+            <nbspace/>
+            <ITEXT CH="zbraní."/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Tour de Prešov"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Prešov"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 12.7. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Milovníci cyklistiky môžu svoje bicykle pripraviť na preteky v"/>
+            <nbspace/>
+            <ITEXT CH="Prešove. Dĺžka pretekov je 94 km a"/>
+            <nbspace/>
+            <ITEXT CH="bude trvať cca 3 hodiny. Pelotón bude prechádzať cez obce a"/>
+            <nbspace/>
+            <ITEXT CH="mestá okolo Prešova. "/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Bažant kinematograf"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Žilina, Márianske námestie "/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 24. – 28.7. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Bažant kinematografia je putovný letný filmový festival, ktorý ponúka filmy pod holým nebom. Dva tradičné retro autobusy vyrážajú na cestu po celom Slovensku. V"/>
+            <nbspace/>
+            <ITEXT CH="Žiline sa môžeme tešiť na Troch bratov, Trabantom až na koniec sveta, Zakázané uvoľnenie, 38 a"/>
+            <nbspace/>
+            <ITEXT CH="Díra u"/>
+            <nbspace/>
+            <ITEXT CH="Hanušovic."/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Jánošíkove dni "/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Terchová"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 30.7. – 2.8. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="53. ročník Medzinárodného folklórneho festivalu bude plný bohatého programu, výstav, prezentácie ľudových remesiel a"/>
+            <nbspace/>
+            <ITEXT CH="folklórnej hudby."/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Campfest"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Ranč kráľová lehota"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 6. – 9.8. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="na mieste: 30 €"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Campfest je open-air hudobný festival s"/>
+            <nbspace/>
+            <ITEXT CH="návštevnosťou 5000 ľudí. Ponúka štyri dni kempovej pohody, hudby, slova, tanca a"/>
+            <nbspace/>
+            <ITEXT CH="športu."/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Rajecký maratón"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Rajec"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 8.8. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Rajecký maratón patrí medzi top bežecké súťaže o"/>
+            <nbspace/>
+            <ITEXT CH="Slovenský pohár v"/>
+            <nbspace/>
+            <ITEXT CH="maratóne BA- Rajec-KE. "/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Katastrofy ľudského tela"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="miesto: Bojnice"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="čas: 1.6. – 31.8. 2015"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Výstava ľudských anomálií a"/>
+            <nbspace/>
+            <ITEXT CH="postihnutí pod názvom katastrofy ľudského tela prináša jedinečnú možnosť spoznať výnimočných ľudí napr. sovieho muža, ktorý vďaka zdeformovaným krčným stavcom dokázal otočiť hlavu o"/>
+            <nbspace/>
+            <ITEXT CH="180 stupňov. "/>
+            <para OpticalMargins="0"/>
+            <para OpticalMargins="0"/>
+            <ITEXT CH="Dúfame, že sme boli aspoň malou inšpiráciou pre váš letný program a"/>
+            <nbspace/>
+            <ITEXT CH="prajeme vám len to najkrajšie leto plné slnka, oddychu a"/>
+            <nbspace/>
+            <ITEXT CH="zážitkov :)."/>
+            <trail OpticalMargins="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="8" PTYPE="4" XPOS="734.966929133858" YPOS="3617.01070866142" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" OpticalMargins="0" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="6">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="152.44157480315" YPOS="4498.90015748032" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="9" BACKITEM="-1">
+            <ITEXT CH="Podrubrika: Kniha (aj toto do dvoch stĺpcov okrem filmov)"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Nadpis: Francine Rivers – Leotina Záhrada"/>
+            <para/>
+            <ITEXT CH="Autor: Karolína Kováčová, 3.A"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Leota - staršia osamelá žena, ktorú ubíjajú nevypovedané tajomstvá a neopätované vzťahy s rodinou. Annie, jej vnučka, ktorá si v jednom momente uvedomí, že ak chce žiť svoj život a nie život svojej matky, musí od nej odísť. Corban, mladý študent, ktorý sa zameriava iba na výsledky a nič iné ho nezaujíma. V jednom okamihu sa všetci traja stretávajú avšak z úplne iných dôvodov."/>
+            <para/>
+            <ITEXT CH="Corban, potrebuje zmeniť svoju vysokoškolskú prácu, aby dostal A-čko, Annie sa chce dozvedieť, prečo jej mama neustále vyčíta, že je presne ako stará mama Leota. Tieto odlišné okolnosti ich spoja a nútia ich tráviť spolu stále viac času. Zo vzájomných nesympatií medzi postavami sa postupne budujú určitým spôsobom hlboké priateľstvá. Annie, takisto ako Leota, sa snaží zmieriť so svojou matkou. Chce aby jej rodina bola zase úplná, aby si vedeli navzájom odpustiť a zmieriť sa so sebou. Avšak jej matka sa nedokáže dostať von z minulosti a začať žiť v prítomnosti. Proces zmeny je veľmi dlhý a môžeme si ho veľmi nepatrne uvedomovať počas čítania. Keď sa zdá, že veci môžu nabrať iný smer, Leota skončí s vážnym zdravotným stavom v nemocnici, kde jej ostáva už len málo času. Ako sa k tomu postavia jej deti a Annie s Corbanom, ktorý má okrem toho vážne problémy s priateľkou? Dokáže Leotina dcéra prekonať bariéru nepochopenia a neochoty vypočuť si druhú stranu príbehu svojho života? Je Corban natoľko silný aby vydržal skúšku, ktorú mu pripravila Ruth? Spojí Annie rodinu opäť dokopy?"/>
+            <para/>
+            <ITEXT CH="Kniha Leotina záhrada je zaujímavá realitou každodenného života, ktorú zobrazuje. Ak čakáte veľký happy end, na aký sme u Francine Riversovej zvyknutý, asi budete sklamaný. Autorka veľmi pekným spôsobom zobrazuje vývin vzťahov medzi hlavnými postavami, ale osobne som mala od určitého okamihu v deji pocit násilnej snahy o zdramatizovanie deja a akýchsi pokusov o zahrnutie prvkov, ktoré sa podľa mňa oveľa viac hodia do detektívok, do deja a pôsobili rušivým dojmom. Takisto som bola veľmi prekvapená koncom knihy, ktorý podľa môjho názoru potreboval ešte aspoň 50 strán :D . Obsahoval veľa nevypovedaných otázok a nedokončených,alebo veľmi narýchlo ukončených dejových línií."/>
+            <para/>
+            <ITEXT CH="Leotina záhrada na jednej strane zobrazuje osamelosť, akú pociťuje Leota, Corbanovu snahu o pochopenie druhých, zrod hlbokých vzťahov a celkovo sa v nej mnohí nájdu, poprípade im kniha môže pomôcť pochopiť druhých. Čo sa mi na knihe nepáči, je jej druhá polovica, kedy sa dej začne uberať pre mňa zvláštnym smerom, s ktorým som sa nemohla stotožniť a až do konca knihy som sa nevedela ubrániť pocitu, že je výsledkom akéhosi experimentu, čo sa týka vedľajších dejových línií a pre mňa veľmi narýchlo ukončeného deja. V určitom ohľade sa to dá zdôvodniť nutnosťou zobraziť realitu života. Zobraziť skutočnosť, že nie všetko končí šťastne, nie vždy máme dosť času pre druhých a nie vždy veci skončia ako by sme si priali. Samozrejme, môj pohľad je veľmi subjektívny, preto urobíte najlepšie, keď si knihu prečítate a utvoríte si vlastný názor. Príjemné čítanie."/>
+            <para/>
+            <para/>
+            <ITEXT CH="Nadpis: Bill Hybels – Stačí vykročiť"/>
+            <para/>
+            <ITEXT CH="Autor: Karolína Kováčová, 3.A"/>
+            <para/>
+            <ITEXT CH="&quot;Desaťtisíc krokov. Zhruba takú vzdialenosť prekonáte každý deň od východu slnka po jeho západ. Každý deň. Za život je to spolu asi 185 000 kilometrov- alebo viac než štvornásobok obvodu našej veľkej modrej planéty. Vezmite do úvahy tento fakt a položte si otázku : Využívam svoje kroky múdro?&quot;"/>
+            <para/>
+            <ITEXT CH="Bill Hybels opisuje jednoduché kroky ako ukázať ľuďom cestu k viere, avšak nie spôsobom, s ktorým sa pravdepodobne väčšina z nás stretla. Jej princíp je založený na ľudskosti. Počúvaní ľudí, budovaní priateľstiev a odvahe vykročiť. Pretože : &quot;Čo ak stačí len prejsť na druhý koniec miestnosti a presmerujete tým človeka k úplne inému večnému životu?&quot; Kniha začína autorovou skúsenosťou počas jazdy taxíkom, kedy zažije, že niekedy stačí byť otvorení voči druhému človeku a vedeniu Ducha Svätého a z obyčajného stretnutia sa stane moment, ktorý druhému môže zmeniť život, poprípade ho presmerovať iným smerom. Autor postupne predstavuje rôzne formy ohlasovania Krista, poukazuje na ich pozitíva, negatíva, no najmä vyzdvihuje fakt, že základom každej evanjelizácie je ľudskosť a vnútorná odpoveď na otázku, či mi naozaj záleží na tom, či druhá osoba strávi večnosť spolu so mnou, alebo nie. Zdôrazňuje, že skoro nikdy nepripravuje pôdu, nesadí a následne zberá úrodu jeden človek. Je to proces, ktorého počiatkom sú väčšinou jednoduché, nenápadné činy, avšak robené s láskou a túžbou priblížiť druhému milujúceho Boha."/>
+            <para/>
+            <ITEXT CH="Bill Hybels predstavuje zaujímavý 3-D projekt. Evanjelizáciu v troch dimenziách: "/>
+            <para/>
+            <ITEXT CH="1. Rozvíjajte priateľstvá  "/>
+            <para/>
+            <ITEXT CH="2. Spoznávajte príbehy druhých."/>
+            <para/>
+            <ITEXT CH="3. Podnikajte ďalšie kroky a riaďte sa Duchom Svätým.                                                                                                                                              "/>
+            <para/>
+            <ITEXT CH="Ďalej sa zaoberá praktickými vecami a problémami, ktoré môžu pri evanjelizácií nastať, ako povedať svedectvo a neodradiť pri tom poslucháča alebo ako budovať seba, aby sme mohli rozdávať posolstvo evanjelia ďalej. Každá kapitola zahŕňa otázky na zamyslenie, porozumenie obsahu samotnej kapitoly, alebo fáze viery, v ktorej sa nachádzame. Celá kniha je popretkávaná silnými príbehmi, autorovými, ale aj inými príbehmi zo život, ktoré dopĺňajú a pomáhajú lepšie pochopiť text."/>
+            <para/>
+            <ITEXT CH="Stačí vykročiť ma osobne zaujala najmä kvôli až zarážajúcej jednoduchosti, akou je písaná. V žiadnom prípade nie je určená výlučne pre veriacich, ktorý majú v sebe túžbu ohlasovať Krista, ale odporúčam ju všetkým, ktorí sa chcú naučiť pristupovať k druhým s láskou a porozumením, namiesto odsudzovania a pohŕdania. Kniha v každom prípade pomáha uvedomiť si, ako veľmi dokážu jednoduché činy a prejavy lásky, porozumenia, alebo spolupatričnosti ovplyvniť život človeka."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="10" PTYPE="4" XPOS="734.966929133858" YPOS="4498.90015748032" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="10" BACKITEM="8">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="152.44157480315" YPOS="5380.78960629921" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="9">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="2" XPOS="152.44157480315" YPOS="4616.90015748032" WIDTH="243.785196850394" HEIGHT="375.054149000606" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.375054149000606" LOCALSCY="0.375054149000606" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="zdroj/francin rivers - leotina záhrada.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 243.785 0 243.785 0 243.785 0 243.785 0 243.785 375.054 243.785 375.054 243.785 375.054 243.785 375.054 0 375.054 0 375.054 0 375.054 0 375.054 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 243.785 0 243.785 0 243.785 0 243.785 0 243.785 375.054 243.785 375.054 243.785 375.054 243.785 375.054 0 375.054 0 375.054 0 375.054 0 375.054 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="10" PTYPE="2" XPOS="991.875" YPOS="4633.7644488189" WIDTH="246.24720472441" HEIGHT="377.085318512818" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.617160914096265" LOCALSCY="0.617160914096265" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="zdroj/bill hybels - stačí vykročiť.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 246.247 0 246.247 0 246.247 0 246.247 0 246.247 377.085 246.247 377.085 246.247 377.085 246.247 377.085 0 377.085 0 377.085 0 377.085 0 377.085 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 246.247 0 246.247 0 246.247 0 246.247 0 246.247 377.085 246.247 377.085 246.247 377.085 246.247 377.085 0 377.085 0 377.085 0 377.085 0 377.085 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="12" PTYPE="4" XPOS="734.966929133858" YPOS="5380.78960629921" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="14" BACKITEM="-1">
+            <ITEXT CH="Podrubrika: Film"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Nadpis: Jurský svet"/>
+            <para/>
+            <ITEXT CH="Autor: Pavol Súkeník, 2.A"/>
+            <para/>
+            <ITEXT CH="Réžia:  Colin Trevorrow"/>
+            <para/>
+            <ITEXT CH="Scenár: Rick Jaffa, Amanda Silver, Colin Trevorrow, Derek Connolly"/>
+            <para/>
+            <ITEXT CH="Hudba: Michael Giacchino"/>
+            <para/>
+            <ITEXT CH="Hrajú: Chris Pratt, Bryce Dallas Howard, Vincent D'Onofrio, Ty Simpkins a ďalší"/>
+            <para/>
+            <ITEXT CH="V našich kinách od  11. 6. 2015"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Pred dvadsiatimi dvoma rokmi tragicky skončil sen excentrického milionára Johna Hammonda, ktorý chcel na odľahlom ostrove z dinosaurej DNA vypestovať Jurský park so živými exponátmi. Od tej doby sa ale mnohé zmenilo, park ide na plné obrátky, ročne ním prejdú milióny nadšených návštevníkov, ktorí s očami navrch hlavy sledujú v akcii desiatky &quot;vyhynutých&quot; živočíchov. Lenže vedenie parku stále hľadá nové spôsoby, ako túto jedinečnú atrakciu ešte viac zatraktívniť . A v tú chvíľu prídu komplikácie. Vedecké experimenty s novými druhmi mohutne podporuje strohá manažérka parku Claire Dearing (Bryce Dallas Howard), ktorá vo zvieratách vidí predovšetkým čísla. Na rozdiel od nej v nich biológ Owen Grady (Chris Pratt zo Strážcov galaxie) vidí hlavne nebezpečenstvo, zvlášť v tvoroch, ktoré nestvorila príroda, ale laboratórium. Udalosti mu dajú za pravdu, keď sa jeden z takých miláčikov doslova urve z reťaze a začne si vylepšovať jedálniček zamestnancami parku a neskôr tiež návštevníkmi, medzi ktorými sú aj dvaja synovci Claire, ktorí za tetou prišli na prázdniny. Teraz už nejde o vyššie tržby ani o udržanie prestíže. Cieľom všetkých začalo byť holé prežitie."/>
+            <para/>
+            <para/>
+            <ITEXT CH="Nadpis: Mimoni"/>
+            <para/>
+            <ITEXT CH="Autor: Pavol Súkeník, 2.A"/>
+            <para/>
+            <ITEXT CH="Réžia: Kyle Balda, Pierre Coffin "/>
+            <para/>
+            <ITEXT CH="Scenár: Ken Daurio, Brian Lynch, Cinco Paul "/>
+            <para/>
+            <ITEXT CH="Hudba: Heitor Pereira"/>
+            <para/>
+            <ITEXT CH="V našich kinách od 25. 6. 2015"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Zamysleli ste sa niekedy nad tým, prečo vlastne tí žltunký a na zožratie roztomilí Mimoni dobrovoľne slúžia Gruovi, zloduchovi s veľkým Z? Odpoveď prináša animovaná komédia Mimoni, ktorá z nich konečne a predovšetkým úplne zaslúžene robí hlavné postavy ich vlastného príbehu. Predstavte si, že títo dobráci od kosti vidia odnepamäti zmysel svojej existencie v posluhovaní tomu najväčšiemu darebákovi široko ďaleko. Kedykoľvek zhodou náhod, ku ktorým často prispievali oni sami, o svojho pána prišli, hneď si hľadali ďalšieho. A tak to išlo celé stáročia, od Tyranosaura Rexa, cez grófa Drakulu a cisára Napoleona až do okamihu, kedy žiadneho nového nadriadeného nájsť nedokázali a upadli do hlbokej depresie. Našťastie sa v ich strede zjavili tri hrdinovia - hrdý Kevin, hladný Stuart a vystresovaný Bob. Tí vyrazili do sveta, aby všetkým svojim mimoňským kamarátom vrátili zmysel života."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="152.44157480315" YPOS="6262.67905511811" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="13">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="12" PTYPE="2" XPOS="1008.75" YPOS="5380.78960629921" WIDTH="229.37220472441" HEIGHT="339.810673665792" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.113270224555264" LOCALSCY="0.113270224555264" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="zdroj/jurský svet.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 229.372 0 229.372 0 229.372 0 229.372 0 229.372 339.811 229.372 339.811 229.372 339.811 229.372 339.811 0 339.811 0 339.811 0 339.811 0 339.811 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 229.372 0 229.372 0 229.372 0 229.372 0 229.372 339.811 229.372 339.811 229.372 339.811 229.372 339.811 0 339.811 0 339.811 0 339.811 0 339.811 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="2" XPOS="448.125" YPOS="6262.67905511811" WIDTH="207.471850393701" HEIGHT="328.451478195832" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.273709565163193" LOCALSCY="0.273709565163193" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="zdroj/mimoni.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 207.472 0 207.472 0 207.472 0 207.472 0 207.472 328.451 207.472 328.451 207.472 328.451 207.472 328.451 0 328.451 0 328.451 0 328.451 0 328.451 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 207.472 0 207.472 0 207.472 0 207.472 0 207.472 328.451 207.472 328.451 207.472 328.451 207.472 328.451 0 328.451 0 328.451 0 328.451 0 328.451 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="14" PTYPE="4" XPOS="734.966929133858" YPOS="6262.67905511811" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Nad­pis: Drahý Jo­zef"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="Au­tor: Karo­lí­na Ková­čo­vá, 3.A"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="Drahý Jo­zef, "/>
+            <para ALIGN="3"/>
+            <ITEXT CH="aj keď z diaľ­ky po­čuť  streľ­bu, my máme za­tiaľ rela­tív­ny po­koj. Ak vô­bec mô­že­me slovo po­koj v tej­to si­tu­ácií po­užiť. Pý­tal si sa čo nové. Nič. Stá­le umiera­me, jedny aj druhý. Kaž­dý svo­jím spô­so­bom. Mnoho umiera te­les­ne, ale my, čo stá­le ži­jeme, umiera­me zvnút­ra."/>
+            <para ALIGN="3"/>
+            <ITEXT CH="Za­čínam roz­mýš­ľať, či boju­jem na tej správnej strane. Či ne­po­pieram to slovan­ské brat­stvo, ktoré bolo od­vž­dy v nás. Cí­tim sa, ako ke­by vraž­dím svo­jich bratov, svoj národ. Moja my­seľ je plná cha­osu. Ke­by len vidíš, čo musí­me robiť. Tak­ti­ka spá­lenej ze­me, ktorú za­stá­va­jú Ne­mci, je mi ne­prí­jem­ná, priam od­por­ná. Ne­mám síl sa za­mýš­ľať nad tým, čo vlast­ne robím. Vy­pa­ľu­jeme a vraž­dí­me dedi­ny jednu za druhou a ja au­to­matic­ky dví­ham svo­ju Mau­ser­ku a pá­lim. No strely sa v prvom ra­de vnára­jú do môj­ho srd­ca, až po­tom do tiel bez­bran­ných So­vietov. Nad hlava­mi nám ne­us­tá­le lieta­jú rus­ké Iliuši­ny, alebo Štor­mov­ni­ky, ako ich vola­jú. Viem, že ich za po­sled­né roky viac­krát upra­vo­va­li, ale eš­te nie som schopný po­ve­dať, aké sú v porov­naní s na­ši­mi He­in­kel­mi lebo Stuka­mi, ako pre­zý­va­me Jun­ker­sy. Stá­le viac ma vy­tá­ča po­stoj Ne­mcov k nám, voja­kom z iných štátov. Hoci boju­jeme s nimi, ne­us­tá­le nás podce­ňu­jú. Len pre­to, že oni sú Ne­mci a my nie . Aký má to­to za­bí­ja­nie zmysel? Nech mi ni­kto neroz­práva, že chráni­me druhých, lebo vo voj­ne ni­kto nebe­rie ohľad na člove­ka. Ru­si ne­po­ze­ra­jú na straty, boju­jú o kaž­dý meter štvor­co­vý za cenu hoc aj celej ar­má­dy. Hlav­ne aby ne­us­tú­pi­li. Je cel­kom bež­né, že keď za­číname po­stupo­vať do­pre­du a Ru­si v pred­ných lí­niách za­stanú alebo sa dajú na ústup, vlast­ní ich zo­za­du po­strieľa­jú, aby moh­li po­kra­čo­vať ďalej. Za minu­lý týž­deň sa tri­krát stalo, že so­viet­sky vojak dobe­hol ku gu­ľo­met­né­mu hniezdu a hodil sa na jeho ot­vor, kde sme ho sa­moz­rej­me za­streli­li. Av­šak kým sa ot­vor opäť uvoľ­nil, dobe­hol ďal­ší vojak a hodil dnu granát. My po­uží­va­me pu­čid­lá as­poň tak čas­to ako oni. Za­mýš­ľam sa nad tým, akí straš­ní Ne­mci sú a hneď po­tom si uve­do­mím, že som súčas­ťou ich ar­má­dy. Ach, Bože, skon­čí sa to­to nie­ke­dy? "/>
+            <para ALIGN="3"/>
+            <ITEXT CH="Môj drahý Jo­zef, čo bu­de so mnou, ak sa vrátim? Une­siem to ti­cho, ke­dy nebu­dem po­čuť paľ­bu, strely, krik ra­ne­ných a umiera­jú­cich voja­kov? Zne­siem byť sám so svo­ji­mi myš­lien­ka­mi? Po­tom, nie te­raz. Te­raz nad tým nech­cem a ani ne­mô­žem roz­mýš­ľať, lebo by som to ne­z­vládol. Pre­páč mi za ten­to do­pis, ale nie­komu musím po­ve­dať čo cí­tim, inak sa z to­ho zbláz­nim. Ke­by tieto myš­lien­ky vy­slovím na­hlas, v momen­te som mŕt­vy. Ne­os­tá­va mi te­da nič iné ako sa opäť oprieť o na­še priateľ­stvo. "/>
+            <para ALIGN="3"/>
+            <ITEXT CH="Prosím ťa, mojím doma o tom nič neho­vor, nech­cem im pri­dá­vať ďal­šie starosti. Len ich odo mňa po­zdravuj, že čo­skoro po­šlem list aj im. "/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="Vďa­ka za všet­ko, tvoj Im­rich"/>
+            <para ALIGN="3"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="152.44157480315" YPOS="7144.56850393701" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Nadpis: Srdcový chirurg kontrolujúci stav svojho pacienta"/>
+            <para/>
+            <ITEXT CH="Auto: Veronika Verešová, 3.B"/>
+            <para/>
+            <ITEXT CH="Fotografia poľského chirurga Dr. Zbigniewa Religu nás na prvý pohľad určite zaskočí. Keď si však prečítame príbeh, ktorý sa s ňou spája určite budeme milo prekvapení. Na fotografii sedí Dr. Religa v operačnej sále a sleduje stav pacienta po 23 hodinovej operácii srdca. V pravom dolnom rohu môžeme vidieť jeho spiaceho asistenta. "/>
+            <para/>
+            <ITEXT CH="Aj napriek tomu, že transplantácia srdca bola v tom čase takmer nemožná doktor Religa sa chytil svojej šance a pokúsil sa ju vykonať. Operácia prebehla úspešne a srdce jeho pacienta Tadeusza Zitkevitsa do dnes pracuje. "/>
+            <para/>
+            <ITEXT CH="Neskutočné na fotografii je starosť chirurga o pacienta. Po 23 ťažkých hodinách sedí sám v tichu a čaká. Nehľadí na svoju únavu a vyčerpanosť. Ukazuje nám krásu medicíny a núti nás toto remeslo obdivovať a vážiť si ho. Dr. Religa v tej dobe dokázal, že aj nemožné vecí sa môžu podariť. Potvrdzuje to aj fakt, že jeho pacient Zitkecits prežil svojho doktora."/>
+            <para/>
+            <ITEXT CH="Geographic National ju vyhlásili za najlepšiu fotografiu v roku 1978."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="15" PTYPE="2" XPOS="152.44157480315" YPOS="7144.56850393701" WIDTH="503.155275590551" HEIGHT="325.432898683308" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.260972653314601" LOCALSCY="0.260972653314601" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="zdroj/príbeh skrytý za objektívom - väčší.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 325.433 503.155 325.433 503.155 325.433 503.155 325.433 0 325.433 0 325.433 0 325.433 0 325.433 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 325.433 503.155 325.433 503.155 325.433 503.155 325.433 0 325.433 0 325.433 0 325.433 0 325.433 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="734.966929133858" YPOS="7144.56850393701" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Andy Warhol"/>
+            <para/>
+            <ITEXT CH="Veľa Slovákov opustilo svoje domovy a odsťahovalo sa do Ameriky za lepším životom. Mnohí z nich sa stali úspešnými, bohatými a slávnymi ľuďmi, ale kto z nich sa môže merať s Warholom? "/>
+            <para/>
+            <ITEXT CH="Andy Warhol sa narodil ako Andrew Warhola v Pittsburghu v Pensylvánii ako syn rusínskych emigrantov z východoslovenskej obce Miková. Veľmi skoro sa uňho prejavil umelecký talent, vyštudoval priemyselné čiže komerčné umenie a v bláznivých 60.-tych rokoch, keď sa búrili študenti v Paríži a po Československu sa premávali tanky, dobyl Spojené štáty svojím „masovým umením“. "/>
+            <para/>
+            <ITEXT CH="The Factory na Manhattane, založená roku 1963, sa stala Andyho ateliérom, kde pracovali jeho „umeleckí pracovníci“ na tvorbe výtlačkov, topánkach, filmoch. Interiér bol obalený cínovou fóliou a pomaľovaný strieborným náterom. Vo vzduchu sa vznášali strieborné „oblaky“ z veľkých héliových balónov v podobe vankúšov. The Factory sa stala aj miestom najvychýrenejších i najdivokejších žúrov, aké Amerika tej doby videla. "/>
+            <para/>
+            <ITEXT CH="Avšak k životu americkej ikony patrili aj škandály. Nikdy sa netajil svojou homosexuálnou orientáciou, čo patrične vyjadroval aj v niektorých svojich dielach, najmä filmoch. Bol puntičkársky zberateľ, ktorý si odkladal každý kúsok papiera, každý list od fanúšikov (ale až po odlepení známky), každý časopis, v ktorom o ňom písali, i homosexuálnu pornografiu, to všetko ukladal do starostlivo očíslovaných škatúľ a viac sa do nich nepozrel. Označoval ich za svoje „časové puzdra“. "/>
+            <para/>
+            <ITEXT CH="Andy Warhol zomrel v New Yorku po rutinnej operácii žlčníka vo veku 58 rokov."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="16" PTYPE="2" XPOS="734.966929133858" YPOS="7146.58925196849" WIDTH="503.155275590551" HEIGHT="209.212172802724" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.52303043200681" LOCALSCY="0.52303043200681" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="zdroj/pop-art.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 209.212 503.155 209.212 503.155 209.212 503.155 209.212 0 209.212 0 209.212 0 209.212 0 209.212 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 209.212 503.155 209.212 503.155 209.212 503.155 209.212 0 209.212 0 209.212 0 209.212 0 209.212 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="17" PTYPE="4" XPOS="152.44157480315" YPOS="8026.45795275591" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Nadpis: Téglik ako svietnik"/>
+            <para/>
+            <ITEXT CH="Autor: Veronika Verešová, 3.B"/>
+            <para/>
+            <ITEXT CH="Často pred narodeninami svojich kamarátok rozmýšľam, čo také by som im darovala. Vždy chcem, aby to bolo niečo originálne, pekné a zároveň v mojom rozpočte. Však to poznáte :). Aj preto som sa rozhodla vyrobiť svietnik. Jeho výroba je veľmi jednoduchá a netrvá príliš dlho. Najlepšie na tomto svietniku je, že sa hodí do každej izby, pretože si ho môžete spraviť podľa vlastnej chuti a fantázie. Tak poďme na to :)."/>
+            <para/>
+            <ITEXT CH="Budeme potrebovať téglik (veľkosť podľa vášho výberu), nožnice, pinzetu, obojstrannú pásku, drôtik, štetec, farbu (nemusí byť špeciálna na sklo stačí klasická maliarska farba) a vytlačený obrázok, ktorý chcem na svietniku mať."/>
+            <para/>
+            <ITEXT CH="Obrázok (v mojom prípade silueta vtáčika) vystrihneme a pomocou obojstrannej pásky prilepíme na sklo. Obojstrannú pásku som nalepila na celého vtáčika, nie len na stred aby sa dal potom pekne zatrieť a následne odlepiť. "/>
+            <para/>
+            <ITEXT CH="Po nalepení vtáčika natrieme celý téglik aj cez vtáčika. Téglik som natrela dvakrát a následne nechala zaschnúť farbu."/>
+            <para/>
+            <ITEXT CH="Drôtik rozdelíme na dve časti. Z jednej si môžeme spraviť háčik na zavesenie a"/>
+            <nbspace/>
+            <ITEXT CH="druhý použijeme na ozdobenie hrdla téglika. Keď je farba už poriadne zaschnutá, pinzetou obrázok odlepíme. Obojstranná páska by sa zo skla mala odlepiť ľahko."/>
+            <para/>
+            <ITEXT CH="Druhú časť drôtika obtočíme okolo hrdla téglika. Prípadne ak chceme svietnik niekam zavesiť pripevníme prvú časť."/>
+            <para/>
+            <ITEXT CH="Jednoduchá, pomerne rýchla a kreatívna dekorácia do izby :). "/>
+            <para/>
+            <ITEXT CH="Veľa šťastia!"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="18" PTYPE="4" XPOS="734.966929133858" YPOS="8026.45795275591" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="24" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="19" PTYPE="4" XPOS="152.44157480315" YPOS="8908.34740157481" WIDTH="503.155275590551" HEIGHT="721.414488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.155 0 503.155 0 503.155 0 503.155 0 503.155 721.414 503.155 721.414 503.155 721.414 503.155 721.414 0 721.414 0 721.414 0 721.414 0 721.414 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="23">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="982.12220472441" YPOS="2310.25" WIDTH="256" HEIGHT="170.8" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="zdroj/učíme efektívne a pre prax - tropicarium.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256 0 256 0 256 0 256 0 256 170.8 256 170.8 256 170.8 256 170.8 0 170.8 0 170.8 0 170.8 0 170.8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256 0 256 0 256 0 256 0 256 170.8 256 170.8 256 170.8 256 170.8 0 170.8 0 170.8 0 170.8 0 170.8 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="982.12220472441" YPOS="1853.23181102362" WIDTH="256" HEIGHT="192" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="zdroj/učíme efektívne a pre prax - jaslovské bohunice.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256 0 256 0 256 0 256 0 256 192 256 192 256 192 256 192 0 192 0 192 0 192 0 192 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256 0 256 0 256 0 256 0 256 192 256 192 256 192 256 192 0 192 0 192 0 192 0 192 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
